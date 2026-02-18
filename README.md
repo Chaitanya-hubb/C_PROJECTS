@@ -1,4 +1,4 @@
-##C Programming Practice##
+#C Programming Practice
 
 **Description**
 This repository contains my practice programs in C programming.
