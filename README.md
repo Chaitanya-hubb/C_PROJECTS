@@ -5,6 +5,7 @@ This repository contains my practice programs in C programming.
 I am organizing the programs topic-wise to improve my fundamentals and problem-solving skills.
 
 **Topics Covered**
+
 1.ARRAYS
   -Basic array program
   -Sorting an array using Bubble Sort algorithm
