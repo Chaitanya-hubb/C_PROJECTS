@@ -6,16 +6,15 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 
 **Topics Covered**
 
-1.ARRAYS
-
-  -Basic array program
-  -Sorting an array using Bubble Sort algorithm
-  -Reversing array elements
-  -Finding largest, second largest and third largest element in an array
-  -Finding smallest and second lsmallest element in an array
-  -Merge two sorted arrays
-  -Find sum and average of array elements
-  -Print and remove duplicate elements from array
+ARRAYS
+1. Basic array program
+2. Sorting an array using Bubble Sort algorithm
+3. Reversing array elements
+4. Finding largest, second largest and third largest element in an array
+5. Finding smallest and second lsmallest element in an array
+6. Merge two sorted arrays
+7. Find sum and average of array elements
+8. Print and remove duplicate elements from array
   
 **Upcoming Topics**
 1) Strings
