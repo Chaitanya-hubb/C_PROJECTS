@@ -3,6 +3,7 @@
 **Description**
 This repository contains my practice programs in C programming.
 I am organizing the programs topic-wise to improve my fundamentals and problem-solving skills.
+
 **Topics Covered**
 1.ARRAYS
   -Basic array program
@@ -13,6 +14,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
   -Merge two sorted arrays
   -Find sum and average of array elements
   -Print and remove duplicate elements from array
+  
 **Upcoming Topics**
 1) Strings
 2) Functions
@@ -22,8 +24,10 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 6) Stack
 7) Queue
 8) File Handling
+
 **Objective**
 To develop strong problem-solving skills and deepen my understanding of fundamental C programming concepts.
+
 **Technologies Used**
 1. C Programming
 2. GCC Compiler
