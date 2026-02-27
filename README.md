@@ -11,10 +11,18 @@ ARRAYS
 2. Sorting an array using Bubble Sort algorithm
 3. Reversing array elements
 4. Finding largest, second largest and third largest element in an array
-5. Finding smallest and second lsmallest element in an array
+5. Finding smallest and second smallest element in an array
 6. Merge two sorted arrays
 7. Find sum and average of array elements
 8. Print and remove duplicate elements from array
+9. Count the frequency of array elements
+10. Highest frequency of element in array
+11. Second highest frequency element in array
+12. Print array elements in sorted order without modifying or copying array
+13. Sum of even and odd elements in an array
+14. Move all zeroes to the end of an array
+15. Rotate array by N positions (left rotation)
+16. Rotate array by N positions (right rotation)
   
 **Upcoming Topics**
 1) Strings
