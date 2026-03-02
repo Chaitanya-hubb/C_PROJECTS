@@ -23,6 +23,7 @@ ARRAYS
 14. Move all zeroes to the end of an array
 15. Rotate array by N positions (left rotation)
 16. Rotate array by N positions (right rotation)
+17. Delete nth element from merged array
   
 **Upcoming Topics**
 1) Strings
