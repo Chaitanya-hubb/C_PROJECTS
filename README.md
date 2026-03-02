@@ -24,6 +24,7 @@ ARRAYS
 15. Rotate array by N positions (left rotation)
 16. Rotate array by N positions (right rotation)
 17. Delete nth element from merged array
+18. Compare two arrays element by element
   
 **Upcoming Topics**
 1) Strings
