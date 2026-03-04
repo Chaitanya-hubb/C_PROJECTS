@@ -27,6 +27,7 @@ ARRAYS
 18. Compare two arrays element by element
 19. Print 2D array in spiral form
 20. Print mxn matrix diagonally
+21. Print mxn matrix in zig-zag format
   
 **Upcoming Topics**
 1) Strings
