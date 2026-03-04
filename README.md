@@ -28,6 +28,7 @@ ARRAYS
 19. Print 2D array in spiral form
 20. Print mxn matrix diagonally
 21. Print mxn matrix in zig-zag format
+22. Program to rotate NxN matrix 90 degree anti-clockwise
   
 **Upcoming Topics**
 1) Strings
