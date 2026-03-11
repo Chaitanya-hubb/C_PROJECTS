@@ -1,12 +1,15 @@
 # C Programming Practice
 
+**Author:** Kadiyala Lakshmi Chaitanya  
+**Background:** ECE Graduate | Embedded Systems | C & Embedded C Enthusiast
+
 **Description**
 This repository contains my practice programs in C programming.
 I am organizing the programs topic-wise to improve my fundamentals and problem-solving skills.
 
-**Topics Covered**
+## Topics Covered
 
-ARRAYS
+### ARRAYS
 1. Basic array program
 2. Sorting an array using Bubble Sort algorithm
 3. Reversing array elements
@@ -30,21 +33,23 @@ ARRAYS
 21. Print mxn matrix in zig-zag format
 22. Program to rotate NxN matrix by 90 degrees anti-clockwise
 23. Program to rotate MxN matrix by 90 degrees clockwise
-  
-**Upcoming Topics**
-1) Strings
-2) Functions
-3) Pointers
-4) Structures
-5) Linked List
-6) Stack
-7) Queue
-8) File Handling
 
-**Objective**
+### STRINGS
+1. Reverse the string using length, pointer, and recursion methods.
+ 
+## Upcoming Topics
+1) Functions
+2) Pointers
+3) Structures
+4) Linked List
+5) Stack
+6) Queue
+7) File Handling
+
+## Objective
 To develop strong problem-solving skills and deepen my understanding of fundamental C programming concepts.
 
-**Technologies Used**
+## Technologies Used
 1. C Programming
 2. GCC Compiler
 3. Command Prompt
