@@ -38,6 +38,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 1. Reverse the string using length, pointer, and recursion methods.
 2. Reverse words in a string.
 3. Reverse each word in a string.
+4. Check given string is palindrome or not using two-pointer method.
  
 ## Upcoming Topics
 1) Functions
