@@ -39,6 +39,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 2. Reverse words in a string.
 3. Reverse each word in a string.
 4. Check given string is palindrome or not using two-pointer method.
+5. Convert string to lowercase and uppercase.
  
 ## Upcoming Topics
 1) Functions
