@@ -41,7 +41,9 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 4. Check given string is palindrome or not using two-pointer method.
 5. Convert string to lowercase and uppercase.
 6. Count number of characters in the given string.
- 
+7. Print and count the vowels in the given string.
+8. Remove vowels from the string.
+9. Reverse the vowels in a string.
 ## Upcoming Topics
 1) Functions
 2) Pointers
