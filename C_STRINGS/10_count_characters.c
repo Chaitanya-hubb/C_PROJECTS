@@ -6,7 +6,7 @@ int main()
 {
     char str[20];
     int i;
-S
+
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
 
