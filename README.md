@@ -44,6 +44,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 7. Print and count the vowels in the given string.
 8. Remove vowels from the string.
 9. Reverse the vowels in a string.
+10. Count the frequency of each character in a string.
 ## Upcoming Topics
 1) Functions
 2) Pointers
