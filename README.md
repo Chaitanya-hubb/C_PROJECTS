@@ -45,6 +45,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 8. Remove vowels from the string.
 9. Reverse the vowels in a string.
 10. Count the frequency of each character in a string.
+11. Find how many uppercase and lowercase letters in a given string.
 ## Upcoming Topics
 1) Functions
 2) Pointers
