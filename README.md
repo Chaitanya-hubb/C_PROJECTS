@@ -47,8 +47,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 10. Count the frequency of each character in a string.
 11. Find how many uppercase and lowercase letters in a given string.
 12. Replace a character in a given string.
-13. Implement strcpy() function.
-14. Implement strcmp() function.
+13. Implement strcpy(), strcmp(), strlen() functions.
 ## Upcoming Topics
 1) Functions
 2) Pointers
