@@ -48,14 +48,22 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 11. Find how many uppercase and lowercase letters in a given string.
 12. Replace a character in a given string.
 13. Implement strcpy(), strcmp(), strlen(), strcat(), strrev(), strstr() and strtok() functions.
+
+## Pointers
+1. Basic pointer demonstration
+2. Modify value using pointer
+3. Sum using pointers
+4. Swap two numbers using pointers
+5. Print array using pointer
+6. Reverse array using two-pointer method
+
 ## Upcoming Topics
 1) Functions
-2) Pointers
-3) Structures
-4) Linked List
-5) Stack
-6) Queue
-7) File Handling
+2) Structures
+3) Linked List
+4) Stack
+5) Queue
+6) File Handling
 
 ## Objective
 To develop strong problem-solving skills and deepen my understanding of fundamental C programming concepts.
