@@ -56,6 +56,17 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 4. Swap two numbers using pointers
 5. Print array using pointer
 6. Reverse array using two-pointer method
+7. Pointer traversal
+8. Pointer arithmetic operations
+9. Double pointer (pointer to pointer)
+10. Swap two numbers using pointers and functions
+11. Dynamic memory allocation using malloc
+12. Dynamic memory allocation using calloc
+13. Dynamic memory reallocation using realloc
+14. Generic swap using void pointer (without memcpy)
+15. Pointer to array
+16. Array of pointers
+17. Const pointer and pointer to const
 
 ## Upcoming Topics
 1) Functions
