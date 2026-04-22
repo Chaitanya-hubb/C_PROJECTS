@@ -20,7 +20,7 @@ int main()
        return 1;
     }
 
-    printf("Enter array elemnets: ");
+    printf("Enter array elements: ");
     for(int i = 0; i < n; i++)
     {
         scanf("%d", (p + i));
