@@ -3,7 +3,7 @@
 **Author:** Kadiyala Lakshmi Chaitanya  
 **Background:** ECE Graduate | Embedded Systems | C & Embedded C Enthusiast
 
-**Description**
+## Description
 This repository contains my practice programs in C programming.
 I am organizing the programs topic-wise to improve my fundamentals and problem-solving skills.
 
@@ -49,7 +49,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 12. Replace a character in a given string.
 13. Implement strcpy(), strcmp(), strlen(), strcat(), strrev(), strstr() and strtok() functions.
 
-## Pointers
+## POINTERS
 1. Basic pointer demonstration
 2. Modify value using pointer
 3. Sum using pointers
@@ -68,13 +68,22 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 16. Array of pointers
 17. Const pointer and pointer to const
 
+## STRUCTURES
+1. Basic structure program
+2. Structure with user input
+3. Size of structure with padding
+4. Structure without padding (#pragma pack)
+5. Reduce padding by reordering
+6. Array of structures
+7. Structure with function
+8. Pointer to structure
+
 ## Upcoming Topics
 1) Functions
-2) Structures
-3) Linked List
-4) Stack
-5) Queue
-6) File Handling
+2) Linked List
+3) Stack
+4) Queue
+5) File Handling
 
 ## Objective
 To develop strong problem-solving skills and deepen my understanding of fundamental C programming concepts.
