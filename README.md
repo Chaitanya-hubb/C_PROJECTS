@@ -77,6 +77,8 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 6. Array of structures
 7. Structure with function
 8. Pointer to structure
+9. Sort array of structures based on marks
+10. Find maximum and minimum marks in array of structures
 
 ## Upcoming Topics
 1) Functions
