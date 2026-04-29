@@ -80,8 +80,16 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 9. Sort array of structures based on marks
 10. Find maximum and minimum marks in array of structures
 
+## FUNCTIONS
+1. Basic function program (no arguments and no return value)
+2. Function with arguments and no return value
+3. Function with return value and no arguments
+4. Function with arguments and return value
+5. Call by value
+6. Call by reference
+
 ## Upcoming Topics
-1) Functions
+1) Macros
 2) Linked List
 3) Stack
 4) Queue
