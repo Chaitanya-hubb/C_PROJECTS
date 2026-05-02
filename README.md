@@ -87,6 +87,10 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 4. Function with arguments and return value
 5. Call by value
 6. Call by reference
+7. Factorial using recursion
+8. Fibonacci series using recursion
+9. Reverse a number using recursion
+10. x raised to power y using recursion
 
 ## Upcoming Topics
 1) Macros
