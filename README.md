@@ -95,12 +95,14 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 12. Function pointer with arguments and return value
 13. Callback function using function pointer
 
+## MACROS
+1. Basic macro program
+
 ## Upcoming Topics
-1) Macros
-2) Linked List
-3) Stack
-4) Queue
-5) File Handling
+1) Linked List
+2) Stack
+3) Queue
+4) File Handling
 
 ## Objective
 To develop strong problem-solving skills and deepen my understanding of fundamental C programming concepts.
