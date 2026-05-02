@@ -91,6 +91,9 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 8. Fibonacci series using recursion
 9. Reverse a number using recursion
 10. x raised to power y using recursion
+11. Basic function pointer
+12. Function pointer with arguments and return value
+13. Callback function using function pointer
 
 ## Upcoming Topics
 1) Macros
