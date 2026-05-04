@@ -11,7 +11,7 @@ int main()
    #endif
 
    #ifndef DEBUG
-     printf("Debuf mode is OFF\n");
+     printf("Debug mode is OFF\n");
    #endif
 
    return 0;
