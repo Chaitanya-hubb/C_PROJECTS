@@ -8,11 +8,10 @@ int main()
 {
    #ifdef DEBUG
      printf("Debug mode is ON\n");
-
    #endif
 
    #ifndef DEBUG
-     printf("Debuf mode is OFF\n");
+     printf("Debug mode is OFF\n");
    #endif
 
    return 0;
