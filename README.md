@@ -97,6 +97,15 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 
 ## MACROS
 1. Basic macro program
+2. Macro with arguments
+3. Square of a number using macro
+4. Maximum of two numbers using macro
+5. Multiline macro
+6. Conditional compilation using #ifdef and #ifndef
+7. Swap two numbers using macro
+8. Check even or odd using macro
+9. Debug information using macro and conditional compilation
+10. Bit manipulation macros (set, clear, toggle, get)
 
 ## Upcoming Topics
 1) Linked List
