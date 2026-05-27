@@ -9,6 +9,12 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 
 ## Topics Covered
 
+## BIT MANIPULATION
+1. Check nth bit is set or clear
+2. Set nth bit
+3. Clear nth bit
+4. Toggle nth bit
+
 ### ARRAYS
 1. Basic array program
 2. Sorting an array using Bubble Sort algorithm
