@@ -14,6 +14,9 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 2. Set nth bit
 3. Clear nth bit
 4. Toggle nth bit
+5. Update nth bit
+6. Count set bits
+7. Check even or odd using bitwise operator
 
 ### ARRAYS
 1. Basic array program
