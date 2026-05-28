@@ -9,6 +9,12 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 
 ## Topics Covered
 
+### BIT MANIPULATION
+1. Check nth bit is set or clear
+2. Set nth bit
+3. Clear nth bit
+4. Toggle nth bit
+
 ### ARRAYS
 1. Basic array program
 2. Sorting an array using Bubble Sort algorithm
@@ -49,7 +55,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 12. Replace a character in a given string.
 13. Implement strcpy(), strcmp(), strlen(), strcat(), strrev(), strstr() and strtok() functions.
 
-## POINTERS
+### POINTERS
 1. Basic pointer demonstration
 2. Modify value using pointer
 3. Sum using pointers
@@ -68,7 +74,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 16. Array of pointers
 17. Const pointer and pointer to const
 
-## STRUCTURES
+### STRUCTURES
 1. Basic structure program
 2. Structure with user input
 3. Size of structure with padding
@@ -80,7 +86,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 9. Sort array of structures based on marks
 10. Find maximum and minimum marks in array of structures
 
-## FUNCTIONS
+### FUNCTIONS
 1. Basic function program (no arguments and no return value)
 2. Function with arguments and no return value
 3. Function with return value and no arguments
@@ -95,7 +101,7 @@ I am organizing the programs topic-wise to improve my fundamentals and problem-s
 12. Function pointer with arguments and return value
 13. Callback function using function pointer
 
-## MACROS
+### MACROS
 1. Basic macro program
 2. Macro with arguments
 3. Square of a number using macro
